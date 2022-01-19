@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x51a9701431D09F8482b3554a0BF66F401ec61712",
+  "SCAN_LINK": "https://polygonscan.com/token/0x51a9701431D09F8482b3554a0BF66F401ec61712",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Planet Banana Club",
+  "SYMBOL": "PBC",
+  "MAX_SUPPLY": 5300,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 14,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/planet-banana-club",
+  "SHOW_BACKGROUND": true
+}
